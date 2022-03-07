@@ -1,3 +1,5 @@
+![header](https://raw.githubusercontent.com/Aeim/Aeim/main/header.png)
+
 - 👋 Hi, I’m @Aeim
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning ...
