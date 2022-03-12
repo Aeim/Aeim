@@ -21,11 +21,13 @@
 </p>
 <h3>📫 How to reach me</h3>
 <p>
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <a href="thitiwat@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="linkedin.com/in/thitiwat-ruangsakorn-70b72317a" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/thitiwat" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
-<img alt="kaggle" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
+<img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
+
+
 <!---
 Aeim/Aeim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
