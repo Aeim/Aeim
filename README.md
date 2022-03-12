@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/Aeim/Aeim/main/header.png)
 
-- 👋 Hi, I’m @Aeim
+- 👋 Hello World, I’m @Aeim, Machine learning engineer from Bangkok, Thailand, currently living in Tokyo, Japan.
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
