@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 👋 Hello World, I’m @Aeim, Machine learning engineer from Bangkok, Thailand, currently living in Tokyo, Japan.
+- 👋 Hello World, I’m Thitiwat Ruangsakorn (You can call me "M"), Machine learning engineer from Bangkok, Thailand, currently living in Tokyo, Japan.
 - 👀 I’m interested in Data Science & Machine Learning, passionate about studying how to improve performance and deriving business insights with simple mathematics.
 <h3>💻Things I code with</h3>
 <p>
