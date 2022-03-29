@@ -25,6 +25,7 @@
   <a href="thitiwat@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thitiwat-ruangsakorn-70b72317a" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/thitiwat" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="https://medium.com/@thitiwataeim" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 <h3> 📊 Github Stats and Stuff</h3>
 <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
