@@ -32,8 +32,8 @@
 <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeim&hide=jupyter%20notebook&hide_border=true&layout=compact" />
 <h3> 📚 Latest Medium Story</h3>
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 Aeim/Aeim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
