@@ -4,7 +4,7 @@
 
 - 👋 Hello World, I’m @Aeim, Machine learning engineer from Bangkok, Thailand, currently living in Tokyo, Japan.
 - 👀 I’m interested in Data Science & Machine Learning, passionate about studying how to improve performance and deriving business insights with simple mathematics.
-<h3>Things I code with</h3>
+<h3>💻Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -26,7 +26,9 @@
   <a href="https://www.linkedin.com/in/thitiwat-ruangsakorn-70b72317a" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/thitiwat" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
+<h3> 📊 Github Stats and Stuff</h3>
 <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeim&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 
 
 <!---
