@@ -31,7 +31,9 @@
 <h3> 📊 Github Stats and Stuff</h3>
 <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeim&hide=jupyter%20notebook&hide_border=true&layout=compact" />
-<h3> 📚 Latest Medium Story</h3>
+
+---
+### 📚 Latest Medium Story</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
