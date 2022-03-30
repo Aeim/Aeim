@@ -35,6 +35,7 @@
 ---
 ### 📚 Latest Medium Story
 <!-- BLOG-POST-LIST:START -->
+- [Test 1](https://medium.com/@thitiwataeim/test-1-55728220341f?source=rss-8c3f17615438------2)
 <!-- BLOG-POST-LIST:END -->
 
 
