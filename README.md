@@ -29,14 +29,14 @@
 </p>
 
 ---
-<h3> 📊 Github Stats and Stuff</h3>
-<img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeim&hide=jupyter%20notebook&hide_border=true&layout=compact" />
-
----
 ### 📚 Latest Medium Story
 <!-- BLOG-POST-LIST:START -->
 - [Coming Soon !](https://medium.com/@thitiwataeim/coming-soon-81739dd6d0a1?source=rss-8c3f17615438------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+<h3> 📊 Github Stats and Stuff</h3>
+<img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeim&hide=jupyter%20notebook&hide_border=true&layout=compact" />
 
 
