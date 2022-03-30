@@ -28,6 +28,7 @@
   <a href="https://medium.com/@thitiwataeim" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+---
 <h3> 📊 Github Stats and Stuff</h3>
 <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=Aeim" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeim&hide=jupyter%20notebook&hide_border=true&layout=compact" />
